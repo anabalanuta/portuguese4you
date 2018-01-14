@@ -48,7 +48,18 @@ tr:nth-child(even) {
     <td>pate</td>
     <td>paté</td>
   </tr>
-
+  <tr>
+    <td>beef steak</td>
+    <td>bife</td>
+  </tr>
+      <tr>
+    <td>rabbit</td>
+    <td>coelho</td>
+  </tr>
+  <tr>
+    <td>lamb/pork chop</td>
+    <td>costeleta de carneiro/porco</td>
+  </tr>
 </table>
 
 
