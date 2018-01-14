@@ -37,8 +37,12 @@ tr:nth-child(even) {
     <td>frango</td>
   </tr>
   <tr>
-    <td>veal</td>
     <td>duck</td>
+    <td>pato</td>
+  </tr>
+    <tr>
+    <td>veal</td>
+    <td>vitela</td>
   </tr>
   <tr>
     <td>ham</td>
