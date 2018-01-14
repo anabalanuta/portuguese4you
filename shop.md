@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Groceries
+title: Grocery shopping
 ---
-<h1> Grocery shopping </h1>
+
 <h4> On this page, I will be listing some key elements that you might encounter whilst shopping at a grocery store in Portugal. The table below should facilitate spotting or asking for certain items easier. </h4>
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
