@@ -2,6 +2,9 @@
 layout: page
 title: Groceries
 ---
+<h1> Grocery shopping </h1>
+<h4> On this page, I will be listing some key elements that you might encounter whilst shopping at a grocery store in Portugal. The table below should facilitate spotting or asking for certain items easier. </h4>
+
 
 <!DOCTYPE html>
 <html>
@@ -25,30 +28,7 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-
- <!DOCTYPE html>
-<html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
+    
 <table>
   <tr>
     <th>Meat</th>
@@ -113,42 +93,115 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>Fruit</th>
+    <th>Fruta</th>
+  </tr>
+  <tr>
+    <td>apple</td>
+    <td>maçã</td>
+  </tr>
+  <tr>
+    <td>orange</td>
+    <td>laranja</td>
+  </tr>
+  <tr>
+    <td>lemon</td>
+    <td>limão</td>
+  </tr>
+  <tr>
+    <td>peach</td>
+    <td>pêssego</td>
+  </tr>
+  <tr>
+    <td>apricot</td>
+    <td>damasco</td>
+  </tr>
+  <tr>
+    <td>cherry</td>
+    <td>cereja</td>
+  </tr>
+  <tr>
+    <td>grape</td>
+    <td>uva</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Vegetables</th>
+    <th>Legumes</th>
+  </tr>
+  <tr>
+    <td>potato</td>
+    <td>batata</td>
+  </tr>
+  <tr>
+    <td>carrot</td>
+    <td>cenoura</td>
+  </tr>
+  <tr>
+    <td>peas</td>
+    <td>ervilhas</td>
+  </tr>
+  <tr>
+    <td>mushroom</td>
+    <td>cogumelo</td>
+  </tr>
+  <tr>
+    <td>lettuce</td>
+    <td>alface</td>
+  </tr>
+  <tr>
+    <td>onion</td>
+    <td>cebola</td>
+  </tr>
+  <tr>
+    <td>cucumber</td>
+    <td>pepino</td>
+  </tr>
+  <tr>
+    <td>garlic</td>
+    <td>alho</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th>Drinks</th>
+    <th>Bebidas</th>
+  </tr>
+  <tr>
+    <td>milk</td>
+    <td>leite</td>
+  </tr>
+  <tr>
+    <td>lemonade</td>
+    <td>limonada</td>
+  </tr>
+  <tr>
+    <td>cider</td>
+    <td>cidra</td>
+  </tr>
+  <tr>
+    <td>pineapple juice</td>
+    <td>sumo de ananás</td>
+  </tr>
+  <tr>
+    <td>tomato juice</td>
+    <td>sumo de tomate</td>
+  </tr>
+  <tr>
+    <td>hot chocolate</td>
+    <td>chocolate quente</td>
+  </tr>
+  <tr>
+    <td>tea</td>
+    <td>chá</td>
+  </tr>
+</table>
 </body>
 </html>
-</body>
-</html>
-
-
-
-
-          | English | Portuguese |           | English  | Portuguese |
-          |---------|:----------:|           |----------|:----------:|
-          | Meat    | Carne      |           |Vegetables| Legumes    |
-          |---------|------------|           |----------|------------|
-          | chicken | frango     |           | potato   | batata     |
-          | veal    | vitela     |           | carrot   | cenoura    |
-          | duck    | pato       |           | peas     | ervilhas   |
-          | ham     | fiambre    |           | mushroom | cogumelo   |
-          | pate    | paté       |           | lettuce  | alface     |
-          |---------|------------|           | onion    | cebola     |
-          | Seafood | Marisco    |           | cucumber | pepino     |
-          |---------|------------|           | garlic   | alho       |
-          | fish    | peixe      |           | ---------|------------|
-          | crab    | carangueijo|           | Drinks   | Bebidas    |
-          | prawns  | camarão    |           |----------|------------|
-          | lobster | lagosta    |            
-          | salmon  | salmão     |
-          | cod     | bacalhão   |
-          | squid   | lulas      |
-          | octopus | polvo      |
-          |---------|------------|
-          | Fruit   | Fruta      |
-          |---------|------------|
-          | apple   | maçã       |
-          | orange  | laranja    | 
-          | lemon   | limão      |
-          | peach   | pêssego    |
-          | apricot | damasco    |
-          | cherry  | cereja     |
-          | grape   | uva        |
 
