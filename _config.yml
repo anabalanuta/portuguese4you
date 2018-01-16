@@ -1,8 +1,6 @@
 # basic options
-title: Portuguese 4 You
-author: anabalanuta
-description: Learn the Basics to get around in Portugal
-student number: 160485769
+description: 160485769
+
 
 # Build settings
 markdown: kramdown
