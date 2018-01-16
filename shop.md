@@ -219,4 +219,4 @@ tr:nth-child(even) {
 <br>
 <br>
 
-
+ <li><a href="https://anabalanuta.github.io/portuguese4you/groceriesexercises.html">Click me for exercises!</a></li>
