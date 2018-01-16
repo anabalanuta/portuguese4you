@@ -1,5 +1,5 @@
 <ul class="breadcrumb">
-  <li><a href="https://anabalanuta.github.io/portuguese4you/shop.html">Directions</a></li>
+  <li><a href="https://anabalanuta.github.io/portuguese4you/shop.html">Groceries</a></li>
   <li>Exercises</li>
   </ul>
 
